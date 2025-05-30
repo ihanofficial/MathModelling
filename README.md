@@ -1,8 +1,10 @@
 # MathModelling
 
 线性回归
+例题：
+LateX公式待补档
 
-待更新WriteUp
+WriteUp链接：
 
 层次分析法AHP
 [文档](https://ihanofficial.github.io/e8d66bd958ba/)
